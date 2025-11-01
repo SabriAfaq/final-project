@@ -1,17 +1,17 @@
-/* Dark neumorphic combined style (page-specific tweaks) */
+
 
 :root {
     --bg-900: #0e0b10;
-    /* very dark */
+  
     --bg-850: #131018;
     --panel: #17141a;
     --muted: #bdb7c9;
     --text: #ece8f3;
     --glass: rgba(255, 255, 255, 0.03);
     --purple-1: #8f7adb;
-    /* main pastel purple */
+   
     --purple-2: #6f57c9;
-    /* deeper accent */
+   
     --silver: #cfcde6;
     --accent-glow: rgba(143, 122, 219, 0.18);
     --radius: 16px;
